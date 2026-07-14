@@ -1,2 +1,3 @@
 # demo
-Add next line
+This is my first Git repository.
+Author - Apoorv Lambe
